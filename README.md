@@ -94,7 +94,6 @@ Since I was not familiar with GeoAlchemy2 and Geometry overall:
 | Problem                          | Fix                                                                     |
 | -------------------------------- | ----------------------------------------------------------------------- |
 | `from_shape()` failing silently  | Used `print()` + `await db.flush()` to verify inserts                   |
-
 | Lenght and Widgth sometimes were string or lists like: `['2','3']` | Passed a list instead of a string; fixed by extracting correct property |
 
 ---
