@@ -69,6 +69,7 @@ docker-compose up --build
 * Create new Users/Customers with `/api/auth/register` endpoint
 * Then Login with `/api/auth/login`
 * All endpoints are `protected` besided this two
+* Frontend available in `http://localhost`
 
 ## 🛠️ Approachs**
 
