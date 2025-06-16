@@ -46,7 +46,7 @@ I also add a `Nextjs` frontend to make testing more pleasant.
 ### Prerequisites
 
 * Python 3.10+
-* Docker (optional, for containerized deployment)
+* Docker
 * Postgres with Postgis
 * PGAdmin is Optional
 * Frontend is Optional
