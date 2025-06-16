@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2.0
+asyncpg
+passlib[bcrypt]
+email-validator
+fastapi-jwt-auth
+python-dotenv
+python-jose[cryptography]
+alembic
+greenlet
+python-multipart
+psycopg2-binary
+geoalchemy2
+shapely
+pytest 
+pytest-asyncio
